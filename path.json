@@ -26,80 +26,6 @@
             "club.jpg",
             "index.html"
         ],
-        "Courses": {
-            "key": "Courses",
-            "__files__": [
-                "index.html"
-            ],
-            "QIC": {
-                "key": "QIC",
-                "__files__": [
-                    "111-2期中大抄.pdf",
-                    "index.html",
-                    "QIC_PPT_4Pages.pdf",
-                    "quantum-computation-and-quantum-information-nielsen-chuang.pdf"
-                ]
-            }
-        },
-        "ICS Lab": {
-            "key": "ICS Lab",
-            "__files__": [
-                "index.html"
-            ],
-            "notes": {
-                "key": "notes",
-                "__files__": [
-                    "index.html",
-                    "PLL_78.pdf"
-                ]
-            },
-            "papers": {
-                "key": "papers",
-                "__files__": [
-                    "2009SOVC_A_0.92mW_10-bit_50-MSs_SAR_ADC_in_0.13um_CMOS_Process.pdf",
-                    "2_Comparator_SAR.pdf",
-                    "500-MS_s_5-bit_ADC_in_65-nm_CMOS_With_Split_Capacitor_Array_DAC.pdf",
-                    "An_Inverter-Based_Analog_Front-End_for_a_56-Gb_s_PAM-4_Wireline_Transceiver_in_16-nm_CMOS.pdf",
-                    "A_0.003_mm2_10_b_240_MS_s_0.7_mW_SAR_ADC_in_28_nm_CMOS_With_Digital_Error_Correction_and_Correlated-Reversed_Switching.pdf",
-                    "A_10-bit_50-MS_s_SAR_ADC_With_a_Monotonic_Capacitor_Switching_Procedure.pdf",
-                    "A_56_Gb_s_6_mW_300_um2_inverter-based_CTLE_for_short-reach_PAM2_applications_in_16_nm_CMOS.pdf",
-                    "A_8-bit_500-KS_s_low_power_SAR_ADC_for_bio-medical_applications.pdf",
-                    "BRSummer15Switch.pdf",
-                    "index.html",
-                    "phase-locked-loops.pdf",
-                    "Redundancy.pdf",
-                    "sedes_thesis.pdf",
-                    "set_and_down.pdf"
-                ]
-            },
-            "programs": {
-                "key": "programs",
-                "__files__": [
-                    "index.html",
-                    "pll.png",
-                    "pll.py",
-                    "prog.py"
-                ]
-            },
-            "ZIP": {
-                "key": "ZIP",
-                "__files__": [
-                    "Hw1.rar",
-                    "HW2.zip",
-                    "HW3.zip",
-                    "HW4.zip",
-                    "HW5.zip",
-                    "index.html"
-                ]
-            }
-        },
-        "Music": {
-            "key": "Music",
-            "__files__": [
-                "index.html",
-                "Titanic - My Heart Will Go On.pdf"
-            ]
-        },
         "Notes": {
             "key": "Notes",
             "High School": {
@@ -143,15 +69,6 @@
                 "index.html",
                 "第五堂社課.pdf",
                 "醫用程式設計_20240727.pdf"
-            ]
-        },
-        "TOEFL": {
-            "key": "TOEFL",
-            "__files__": [
-                "10.01-tst-prep-complete-test-the-reading-section.pdf",
-                "10.02-tst-prep-complete-test-the-listening-section.pdf",
-                "10.03-tst-prep-complete-test-the-speaking-section.pdf",
-                "10.04-tst-prep-complete-test-the-writing-section.pdf"
             ]
         }
     }
